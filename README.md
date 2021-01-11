@@ -9,4 +9,6 @@ Personal Website
   * Sapper
   * Hugo
 * HTML CSS JS
+
+* SVGs from scans
 * ...
