@@ -11,4 +11,6 @@ Personal Website
 * HTML CSS JS
 
 * SVGs from scans
+  * InkScape
+  
 * ...
