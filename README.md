@@ -13,4 +13,6 @@ Personal Website
 * SVGs from scans
   * InkScape
   
+* Content?
+  
 * ...
