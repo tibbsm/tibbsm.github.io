@@ -15,4 +15,5 @@ Personal Website
   
 * Content?
  * NBA Fantasy Stats
+  * Check out NBA Bets (Do they have player specifics? Are any of those players even on waiver?)
 * ...
