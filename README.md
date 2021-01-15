@@ -14,7 +14,7 @@ Personal Website
   * InkScape
   
 * Content?
- * NBA Fantasy Stats
-  * Check out NBA Bets (Do they have player specifics? Are any of those players even on waiver?)
-  * Stats from prior games?
+    * NBA Fantasy Stats
+        * Check out NBA Bets (Do they have player specifics? Are any of those players even on waiver?)
+        * Stats from prior games?
 * ...
