@@ -18,6 +18,7 @@ Personal Website
         * Check out NBA Bets (Do they have player specifics? Are any of those players even on waiver?)
         * Stats from prior games? Player trackers.. Waiver wire...
     * Courses
+    * Books
 
 * Need to actually sit down and get to it.... 
 
