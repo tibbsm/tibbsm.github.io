@@ -19,6 +19,7 @@ Personal Website
         * Stats from prior games? Player trackers.. Waiver wire...
     * Courses
     * Books
+* Designs
 
 * Need to actually sit down and get to it.... 
 
