@@ -20,6 +20,8 @@ Personal Website
     * Courses
     * Books
 * Designs
+* Book making
+* Art
 
 * Need to actually sit down and get to it.... 
 
