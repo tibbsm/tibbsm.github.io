@@ -22,6 +22,7 @@ Personal Website
 * Designs
 * Book making
 * Art
+* Math
 
 * Need to actually sit down and get to it.... 
 
