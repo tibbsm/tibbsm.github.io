@@ -33,4 +33,5 @@ Personal Website
     * Just signed up for the waiting list for codespaces, but it could be awhile
 * Google Assistant Actions
 * React roadmap
+* Go roadmap
 * Go backend project
