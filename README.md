@@ -29,7 +29,6 @@ Personal Website
 * One day.. but not today.. one today.. The sun will come out,....
 * Sunset reminder
 
-
 * Interesting: [Build a Hugo static site in the browser using GitHub Codespaces](https://news.ycombinator.com/item?id=25903249)
     * Just signed up for the waiting list for codespaces, but it could be awhile
 * Google Assistant Actions
