@@ -37,4 +37,6 @@ Personal Website
 * Go backend project
 
 * Digital Garden
-...
+* On-the-go photo to booklet
+* SwiftUI
+    * https://cs193p.sites.stanford.edu/?utm_source=hackernewsletter&utm_medium=email&utm_term=watching
