@@ -43,3 +43,6 @@ Personal Website
     
     
 * Gotta do it.. Maybe some code...
+
+* Sapper
+  * Better deployment with gh-pages
