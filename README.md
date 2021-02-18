@@ -46,3 +46,5 @@ Personal Website
 
 * Sapper
   * Better deployment with gh-pages
+
+* Almost forgot today..
