@@ -15,6 +15,13 @@ const posts = [
 			<p>This will be here temporarily</p>
 		`
 	},
+	{
+		title: 'Rather than',
+		slug: 'rather-than',
+		html: `
+			<p>Rather than just another website. A personal tool. User experience and a back office for me?</p>
+		`
+	},
 ];
 
 posts.forEach(post => {
