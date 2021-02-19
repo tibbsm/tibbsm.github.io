@@ -23,10 +23,6 @@ Personal Website
 * Book making
 * Art
 * Math
-
-* Need to actually sit down and get to it.... 
-* Hmmmm...
-* One day.. but not today.. one today.. The sun will come out,....
 * Sunset reminder
 
 * Interesting: [Build a Hugo static site in the browser using GitHub Codespaces](https://news.ycombinator.com/item?id=25903249)
@@ -40,11 +36,6 @@ Personal Website
 * On-the-go photo to booklet
 * SwiftUI
     * https://cs193p.sites.stanford.edu/?utm_source=hackernewsletter&utm_medium=email&utm_term=watching
-    
-    
-* Gotta do it.. Maybe some code...
 
 * Sapper
   * Better deployment with gh-pages
-
-* Almost forgot today..
