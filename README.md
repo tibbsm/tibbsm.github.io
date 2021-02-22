@@ -41,4 +41,3 @@ Personal Website
   * Better deployment with gh-pages
 
 * A3 => A5 Booklets
-* Keep the streak!!
