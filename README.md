@@ -43,3 +43,5 @@ Personal Website
 * A3 => A5 Booklets
 * Doodles
 * Testing git creds 
+
+* test other repos with sapper/gh-pages
