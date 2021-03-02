@@ -45,3 +45,5 @@ Personal Website
 * Testing git creds 
 
 * test other repos with sapper/gh-pages!
+* markdown for blog posts
+  - https://github.com/Charca/sapper-blog-template/tree/master/src/routes/blog
