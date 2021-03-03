@@ -50,3 +50,4 @@ Personal Website
 
 * Deep dive into JS
   * https://github.com/getify/You-Dont-Know-JS
+  * AND FP https://github.com/getify/Functional-Light-JS
