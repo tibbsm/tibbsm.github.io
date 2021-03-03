@@ -47,3 +47,6 @@ Personal Website
 * test other repos with sapper/gh-pages!
 * markdown for blog posts
   - https://github.com/Charca/sapper-blog-template/tree/master/src/routes/blog
+
+* Deep dive into JS
+  * https://github.com/getify/You-Dont-Know-JS
