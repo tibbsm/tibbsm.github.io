@@ -53,3 +53,5 @@ Personal Website
   * AND FP https://github.com/getify/Functional-Light-JS
 
 * Self-destructing posts maybe
+* Libraries
+* Home page
