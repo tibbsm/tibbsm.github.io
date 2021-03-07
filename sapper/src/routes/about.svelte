@@ -6,3 +6,4 @@
 
 <p>This is the 'about' page. There's not much here. Yet..</p>
 <p>But, I don't know what to write</p>
+<p>But, I'll think of something...</p>
