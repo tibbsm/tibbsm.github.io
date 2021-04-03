@@ -56,3 +56,4 @@ Personal Website
 * Self Libraries 
 * Home page
 * Want to work on this, but don't know what to put here, honestly
+* Write analog and work from there
