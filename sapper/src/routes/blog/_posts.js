@@ -20,6 +20,7 @@ const posts = [
 		slug: 'rather-than',
 		html: `
 			<p>Rather than just another website. A personal tool. User experience and a back office for me?</p>
+			<p>Or just write</p>
 		`
 	},
 ];
