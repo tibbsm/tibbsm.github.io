@@ -12,7 +12,7 @@ const posts = [
 		title: 'Temporary',
 		slug: 'temp',
 		html: `
-			<p>This will be here temporarily</p>
+			<p>Man I need to start something from scratch</p>
 		`
 	},
 	{
